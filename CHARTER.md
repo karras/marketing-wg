@@ -26,7 +26,8 @@ As such, the following actions and procedures are in the scope of the Mktg WG:
 * OpenBao brand and marketing discussions and workshops, including the
   possibility to invite non-members of the Mktg WG;
 * Collaboration and alignment with other open-source projects (OpenTofu, for
-  example);
+  example) from a marketing perspective (whereas development aspects are
+  handled by the Dev WG);
 * Brand and marketing decisions, including but not limited to brand identity
   and messaging, content management and promotion, social media, events and
   talks, swag and merchandise, user feedback and KPIs, ecosystem growth and
@@ -35,7 +36,9 @@ As such, the following actions and procedures are in the scope of the Mktg WG:
   content in alignment with the OpenSSF / Linux Foundation brand and trademark
   policies;
 * Creating, maintaining, and archiving assets and collaterals in support of the
-  project; and
+  project;
+* Managing social media platforms and accounts in line with the outlined
+  approach; and
 * Definition of the marketing processes and workflows incl. policies and
   guidelines, subject to approval by the TSC.
 
